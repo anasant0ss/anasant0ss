@@ -12,19 +12,17 @@
 
 <h3><b>Sobre Mim</b></h3>
 
-💫 Meu nome é Ana, sou desenvolvedora full-stack, estudo e participo de projetos, buscando sempre evoluir como programador.
-  
-🎯 Atualmente estou fazendo curso técnico de Desenvolvimento Web - .NET C# no instituto PROA. <br><br>
+💫 Sou a Ana, desenvolvedora full-stack com muita vontade de aprender e crescer na área tech. Estou sempre estudando, participando de projetos e buscando maneiras de evoluir como programadora.
 
-<h3><br>Hard Skills<br/></h3>
+🎯 Atualmente, estou no curso técnico de Desenvolvimento Web com foco em .NET C# pelo Instituto PROA — uma jornada que tem ampliado bastante minha visão sobre o desenvolvimento de software.
 
-🖥️ No front-end, utilizo HTML 5 & CSS 3 eJavaScript para desenvolver interfaces intuitivas, responsivas e com foco na experiência do usuário.
+🖥️ No front-end, gosto de criar interfaces funcionais e responsivas usando HTML5, CSS3 e JavaScript, sempre pensando na melhor experiência para quem vai usar.
 
-🖱️ No back-end, atuo com Node.js (Express) e .NET Core, construindo APIs pensadas para desempenho, escalabilidade e organização do código.
+🖱️ No back-end, venho trabalhando com Python e .NET Core, desenvolvendo aplicações bem estruturadas e focadas em performance e clareza no código.
 
-🎲 Tenho experiência com bancos de dados SQL (MySQL) e NoSQL (MongoDB), escolhendo a tecnologia mais adequada conforme a necessidade do projeto.
+🎲 Já atuei com bancos de dados SQL (MySQL) e NoSQL (MongoDB), escolhendo a solução ideal de acordo com os requisitos de cada projeto.
 
-📖 No momento, estou me aprofundando em C#, aprimorando minha lógica e explorando os recursos da linguagem dentro do ecossistema .NET.
+📖 No momento, estou me aprofundando em C#, evoluindo minha lógica de programação e explorando o universo .NET com mais profundidade.
 
 <h3>Meios de Contato</h3>
 ✉️ Estou disponível para contato nas redes sociais listadas abaixo!
