@@ -22,41 +22,48 @@
 
 📖 No momento, estou me aprofundando em C#, evoluindo minha lógica de programação e explorando o universo .NET com mais profundidade.
 
-<h3>Meios de Contato</h3>
-✉️ Estou disponível para contato nas redes sociais listadas abaixo!
-
 <div/><br>
+<h2><b>Tecnologias & Ferramentas mais usadas</b></h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+</div>
+     
+<br></br>
 
-<div align="center">
-  <h3><br>Minhas Redes de Contato: </br></h3>
+<h2>Meios de Contato</h2>
+✉️ Estou disponível para contato nas redes listadas abaixo!
+<br></br>
+
+<div align="left">
   <a href="www.linkedin.com/in/anasmktfull" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  
   <a href="mailto:anamartucci082@gmail.com?subject=anamartucci082@gmail.com&body=anamartucci082@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
-<hr/>
 
-<div align="center">  
-  
- 
-<div/>
-
-<br>
-
-## Tecnologias que mais uso
-
-<div/>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,cs,dotnet,tailwind" />
-    <img src="https://skillicons.dev/icons?i=react,nodejs" />
-    <img src="https://skillicons.dev/icons?i=py,figma" / <br/>
-  
-         
 </div>
 
 <div align="center">
