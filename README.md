@@ -20,8 +20,6 @@
 
 🖱️ No back-end, venho trabalhando com Python e .NET Core, desenvolvendo aplicações bem estruturadas e focadas em performance e clareza no código.
 
-🎲 Já atuei com bancos de dados SQL (MySQL) e NoSQL (MongoDB), escolhendo a solução ideal de acordo com os requisitos de cada projeto.
-
 📖 No momento, estou me aprofundando em C#, evoluindo minha lógica de programação e explorando o universo .NET com mais profundidade.
 
 <h3>Meios de Contato</h3>
