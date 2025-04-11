@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DEB887&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ana+Santos+xD;Sou+Desenvolvedora+Full-Stack.;Sejam+Bem-Vindos!!!!)](https://git.io/typing-svg) 
 
-<img src="https://i.pinimg.com/736x/63/6f/56/636f56ddc17cfb607dd403c7959da7eb.jpg" 
+<img src="https://media.discordapp.net/attachments/1340058040531030138/1360389979297284246/Download_Telegram_stickers_for_free__The_most_popular_sticker_collections_for_Telegram-Photoroom.png?ex=67faf165&is=67f99fe5&hm=ccdb942f7431f6646c70ab854c8bae914bca5ef7ae6777c35a7844f7a44d0343&=&format=webp&quality=lossless&width=640&height=640" 
      alt="personagem do among us do yoda" 
      width="350px" 
      align="right"
